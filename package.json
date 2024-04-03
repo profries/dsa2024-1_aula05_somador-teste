@@ -1,0 +1,20 @@
+{
+  "name": "somador",
+  "version": "1.0.0",
+  "description": "Somador para fazer testes unitarios",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [
+    "somador",
+    "teste unitario"
+  ],
+  "author": "Ries",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
